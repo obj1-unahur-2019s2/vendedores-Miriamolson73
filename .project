@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>vendedores</name>
+	<name>vendedores-Miriamolson73</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -32,4 +32,14 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.uqbar.project.wollok.wollokNature</nature>
 	</natures>
+	<filteredResources>
+		<filter>
+			<id>1572990411141</id>
+			<name>scr</name>
+			<type>5</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+			</matcher>
+		</filter>
+	</filteredResources>
 </projectDescription>
